@@ -1,7 +1,6 @@
 {
     "pack": {
         "description": "Makes glass blocks and panes connect seamlessly!",
-        "min_format": 69,
-        "max_format": 88
+        "pack_format": 15
     }
 }
